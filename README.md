@@ -12,7 +12,7 @@ Run the notebook in Colab and launch the Gradio app to get a shareable public li
 
 ## 📸 Preview
 
-> _Add a screenshot or GIF of the app here (e.g. `assets/demo.png`) once you have one — it makes the repo much more compelling._
+<img width="485" height="792" alt="AI Resume Screeing System Image" src="https://github.com/user-attachments/assets/6432669c-8036-46f8-b981-ee3709ddfc1b" />
 
 ---
 
